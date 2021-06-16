@@ -13,7 +13,7 @@ header ul { display:flex; align-items:center; }
 header li { margin-left:20px; }
 header a { font-size:14px; color:#212121; }
 header a:hover { text-decoration:underline; }
-header .app { display:block; width:40px; height:40px; margin:auto; background:url(../images/app_btn.jpg) no-repeat 50% 50%; }
+header .app { display:block; width:40px; height:40px; margin:auto; background:url(../images/app_btn.png) no-repeat 50% 50%; }
 header .app:hover { border-radius:50%; background-color:#f0f0f0; }
 header .log-in { display:block; width:96px; height:36px; background-color:#1a73e8; border-radius:5px; color:#fff; text-align:center; line-height:36px; }
 header .log-in:hover { text-decoration:none; background-color:#2b7de9; box-shadow:#8eb2e085 1px 1px 10px; }
