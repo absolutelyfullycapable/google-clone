@@ -35,6 +35,6 @@ https://book.vanillacoding.co/starter-kit/step-1/html-css/practice
 ```
 
 - Class / ID Naming Convention
-  - HTML 요소의 클래스명과 아이디명은 일반적으로 Kebab Case가 사용됩니다.
+  - HTML 요소의 클래스명과 아이디명은 일반적으로 [Kebab Case](https://htc-refactor.tistory.com/entry/%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%83%80%EC%9D%BCCase-Styles-%EC%B9%B4%EB%A9%9C%EC%8B%9D-%EC%BC%80%EB%B0%A5%EC%8B%9D-%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%8B%9D-%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%EC%8B%9D)가 사용됩니다.
 - File / Directory Naming Convention
   - 파일 혹은 디렉토리(폴더) 이름에는 공백, 한글 사용을 가급적이면 삼가하세요.
